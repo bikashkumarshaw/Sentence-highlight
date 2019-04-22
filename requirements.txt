@@ -1,0 +1,7 @@
+kwikapi
+tornado
+kwikapi[tornado]
+requests
+git+https://github.com/deep-compute/funcserver@python3-support
+kwikapi.tornado
+python-dateutil
